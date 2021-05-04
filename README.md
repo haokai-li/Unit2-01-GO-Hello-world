@@ -1,1 +1,2 @@
 # Unit2-01-GO-Hello-world
+[![GitHub's Super Linter](https://github.com/haokai-li/Unit2-01-GO-Hello-world/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/Unit2-01-GO-Hello-world/actions)
